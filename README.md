@@ -5,7 +5,6 @@
 </br>
 </br>
 </br>
-</br>
 
 <div dsplay="inline-block">
 
@@ -17,12 +16,8 @@
   <a href="https://br.linkedin.com/in/suellen-bernardo-10b04a1p1">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
 
-
 </div>
 
-
-
-</br>
 </br>
 
 ## Hello, Devs!!
@@ -50,6 +45,8 @@ Tenho 31 anos, sou de Minas Gerais mas moro perto de Curitiba/PR e sou apaixonad
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" height="40"/>
+
 
   <!-- Design & Organização -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" height="40"/> &nbsp;
@@ -68,3 +65,9 @@ Tenho 31 anos, sou de Minas Gerais mas moro perto de Curitiba/PR e sou apaixonad
 </p>
 
 
+## Contatos:
+<div>
+<a href="https://www.instagram.com/suellen.bernardo/?hl=en" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:suelllenbernardo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://br.linkedin.com/in/suellen-bernardo-10b04a1p1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
