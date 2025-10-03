@@ -65,6 +65,32 @@ Tenho 31 anos, sou de Minas Gerais mas moro perto de Curitiba/PR e sou apaixonad
 </p>
 
 
+
+</br>
+</br>
+<div display="inline-block">
+ <p align="left">🤿 Faço parte do time  da <a href="">em construção</a>;</p>
+ <p align="left">💻 Sou formada em Biomedicina e faço pós graduação em Bioinformática na PUC e na DIO sobre IA, ML e outros;</p>
+ <p align="left">📚 Tenho trabalhado e estudado com Python e R, mas também gosto de me aventurar nas horas vagas;</p>
+ <p align="left">📷 Compartilharei minhas experiências com transição de carreira, dicas de estudo, tecnologia e curiosidades no <a href="https://www.instagram.com/suellen.bernardo/?hl=en">Instagram</a> e no <a href="https://">Blog</a>. Segue lá e vem bater um papo!</p>
+ <p align="left">☕🎮 só acordo com café, adoro música (inclusive toco flauta transversal) e faço viagens com certa frequência.</p>
+</div>
+
+
+
+</br>
+
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/) ou pelo [Twitter](https://twitter.com/) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos desenvolvidos e em progresso, que estão disponíveis aqui nos repositórios. =)
+
+
+<div>
+<a href="https://github.com/KiaraSN">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiaraSN&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KiaraSN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<div dsplay="inline-block">
+
 ## Contatos:
 <div>
 <a href="https://www.instagram.com/suellen.bernardo/?hl=en" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
