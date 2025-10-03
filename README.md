@@ -22,7 +22,7 @@
 
 ## Hello, Devs!!
 
-Tenho 31 anos, sou de Minas Gerais mas moro perto de Curitiba/PR e sou apaixonada por programação e felinos! Sou aventureira no universo da programação, criadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+Tenho 24 anos, sou de São Paulo mas moro em Minas Gerais e sou apaixonada por saúde e tecnologia! Sou aventureira no universo da programação, criadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
