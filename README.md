@@ -105,17 +105,7 @@ Everything I study comes back to this question.
 
 </br>
 </br>
-<div display="inline-block">
- <p align="left">🤿 Faço parte do time  da <a href="">em construção</a>;</p>
- <p align="left">💻 Sou formada em Biomedicina e faço pós graduação em Bioinformática na PUC e na DIO sobre IA, ML e outros;</p>
- <p align="left">📚 Tenho trabalhado e estudado com Python e R, mas também gosto de me aventurar nas horas vagas;</p>
- <p align="left">📷 Compartilharei minhas experiências com transição de carreira, dicas de estudo, tecnologia e curiosidades no <a href="https://www.instagram.com/suellen.bernardo/?hl=en">Instagram</a> e no <a href="https://">Blog</a>. Segue lá e vem bater um papo!</p>
- <p align="left">☕🎮 só acordo com café, adoro música (inclusive toco flauta transversal) e faço viagens com certa frequência.</p>
-</div>
 
-
-
-</br>
 
 ### 📫 Projects
 
