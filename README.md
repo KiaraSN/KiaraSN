@@ -42,10 +42,13 @@ Everything I study comes back to this question.
 🚀 Space Health </br>
 📚 Scientific Communication </br>
 ☁️ Cloud & ML </br>
+</br>
 
 ---
 
 ### Tech Stack:
+
+</br>
 
 <p align="left">
   <!-- Linguagens -->
@@ -81,7 +84,24 @@ Everything I study comes back to this question.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
 </p>
 
+</br>
 
+## Beyond Code
+
+
+☕ Coffee-powered learner
+
+🎼 Flute player
+
+📖 Lifelong student
+
+🌎 Traveler
+
+🚀 Space enthusiast
+
+🐶 Dog lover
+
+✨ Forever connecting dots between science and technology.
 
 </br>
 </br>
