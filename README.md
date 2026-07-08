@@ -117,7 +117,9 @@ Everything I study comes back to this question.
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/) ou pelo [Twitter](https://twitter.com/) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos desenvolvidos e em progresso, que estão disponíveis aqui nos repositórios. =)
+### 📫 Projects
+
+Loading [Portfolio](https://) ...
 
 
 <div>
