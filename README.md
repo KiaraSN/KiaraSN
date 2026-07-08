@@ -25,10 +25,27 @@ Exploring how biology and data can improve human health on Earth... and beyond.
 
 </p>
 
+</br>
 
+### Why I do what I do
 
+I'm fascinated by one question:
 
-### 🖥️ Tecnologias e Ferramentas:
+"How can science and technology help people become healthier, live longer and unlock their potential?". My long-term goal is to contribute to the future of precision medicine, senescence and space exploration through technology, research and open knowledge for the human health.
+
+Everything I study comes back to this question.
+
+🧬 Biomedical Sciences </br>
+🧠 Bioinformatics </br>
+🤖 Artificial Intelligence </br>
+📊 Data Science </br>
+🚀 Space Health </br>
+📚 Scientific Communication </br>
+☁️ Cloud & ML </br>
+
+---
+
+### Tech Stack:
 
 <p align="left">
   <!-- Linguagens -->
