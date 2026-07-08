@@ -1,11 +1,3 @@
-<img src="https://github.com/user-attachments/assets/06bd4a54-c81a-4fdd-a23d-9114cbd817eb" align="right" width="150px"
- align="right" width="950px" style="margin-top:-20px">
-
-</br>
-</br>
-</br>
-</br>
-
 <div dsplay="inline-block">
 
  
@@ -20,13 +12,21 @@
 
 </br>
 
-## Hello, Devs!!
+## Hi, You can call me Kiara 👋 <br> <sub>Biomedical Scientist ➛ Bioinformatics ➛ AI & Data Science = Human Evolution Enthusiast</sub>
 
-Tenho 24 anos, sou de São Paulo mas moro em Minas Gerais e sou apaixonada por saúde e tecnologia! Sou aventureira no universo da programação, as vezes criadora de bugs, mas quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+</br>
+
+Science is my language. Curiosity is my engine. Technology is my tool.
+
+Exploring how biology and data can improve human health on Earth... and beyond.
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  <img src="https://github.com/user-attachments/assets/6a64bf55-39c7-4924-a5f0-fc61fc9948ad" width="350">
+
 </p>
+
+
+
 
 ### 🖥️ Tecnologias e Ferramentas:
 
